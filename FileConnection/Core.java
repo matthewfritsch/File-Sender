@@ -1,10 +1,9 @@
 package FileConnection;
-
 public class Core {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Connector c = new Connector();
+		//c.printConnections();
 	}
 
 }
